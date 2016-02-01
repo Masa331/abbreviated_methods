@@ -1,8 +1,8 @@
-# AbbreviatedMethods - Call your object's methods by theirs abbreviations
+# AbbreviatedMethods
 
-**If you include 'AbbreviatedMethods' in your objects you can call their's methods by all their possible abbreviations.**
+**Call your object's methods by all its possible abbreviations**
 
-[![asciicast](https://asciinema.org/a/34559.png)](https://asciinema.org/a/34559)
+[![asciicast](https://asciinema.org/a/35311.png)](https://asciinema.org/a/35311)
 
 ## How to call your methods by their abbreviations
 
@@ -26,7 +26,7 @@ dog.na => 'Fred'
 
 ## About
 
-Did you know about [Abbrev](http://ruby-doc.org/stdlib-2.3.0/libdoc/abbrev/rdoc/Abbrev.html) class in Ruby's standard library? I discovered it while browsing through ruby docu. I think it's so cool but i couldn't think about any useful use-case other than CLIs in the moment so i just tried to play a bit with it here. If you know some valid usecase please let me know!
+Did you know about [Abbrev](http://ruby-doc.org/stdlib-2.3.0/libdoc/abbrev/rdoc/Abbrev.html) class in Ruby's standard library? I discovered it while browsing through ruby docs. I really like it but i couldn't think of any useful use-case in the moment. So i was just playing a bit :). More in this post: [post](http://masa331.github.io/2016/02/01/ruby_abbrev_from_standard_lib.html)
 
 ## License
 
